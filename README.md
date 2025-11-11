@@ -1,6 +1,5 @@
 # Exam Schedule App
 
-App Description
 A Flutter app to keep track of your exams. View all exams in order, quickly see which ones are upcoming or already past, and get details for each exam including how much time is left.
 
 # Features
