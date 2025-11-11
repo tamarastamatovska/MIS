@@ -15,6 +15,6 @@ Detailed view for each exam with remaining time ("X days, Y hours")
 
 Shows total number of exams with a badge
 
-# Screennshots and Video
+# Screenshots and Video
 
 You can see the video and screenshots in the folder videoAndScreenshots
