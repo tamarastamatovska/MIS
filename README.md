@@ -1,16 +1,20 @@
-# mis_lab1
+# Exam Schedule App
 
-A new Flutter project.
+App Description
+A Flutter app to keep track of your exams. View all exams in order, quickly see which ones are upcoming or already past, and get details for each exam including how much time is left.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+Displays exams with course name, date, time, and classrooms
 
-A few resources to get you started if this is your first Flutter project:
+Highlights past and upcoming exams with different colors / Green for passed, red for upcoming
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Uses Card widgets for a clean, organized layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Detailed view for each exam with remaining time ("X days, Y hours")
+
+Shows total number of exams with a badge
+
+# Screennshots and Video
+
+You can see the video and screenshots in the folder videoAndScreenshots
